@@ -1,3 +1,5 @@
+# ORDER FROM A MENU!!!!!!!!!!!!!!
+
 menu = {
     'Popcorn': 12.5,
     'Hot Dog': 2.35,
@@ -9,6 +11,7 @@ menu = {
     'Chips': 4.8
     }
 
+# You didn't see this....
 secret_menu = {
     'Fart Juice': 69420
 }
